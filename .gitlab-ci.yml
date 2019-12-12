@@ -1,0 +1,7 @@
+external-one:
+  script:
+    - echo 'from Github 1'
+    
+external-two:
+  script:
+    - echo ' from Github 2'
